@@ -16,6 +16,6 @@ import jakarta.inject.Named;
 @ApplicationScoped
 public class NamedTut {
     private Long namedId ;
-    private String namedata  = "Merhabalar Named Cdi Bean";
+    private String namedata  = "Merhabalar Named Cdi Bean ";
 
 }
